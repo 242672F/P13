@@ -1,3 +1,11 @@
+Version 2.0
+===========
+Adding new tasks to the to-do list
+For version 2.0
+
+
+Version 1.0
+===========
 My TO-DO List
 1. Write an article
 2. Code
