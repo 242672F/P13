@@ -1,6 +1,12 @@
+Version 2.2
+===========
+Adding a new feature
+
+
 Version 2.1
 ===========
 This change is done in the NYP copy of todo.txt
+
 
 Version 2.0
 ===========
